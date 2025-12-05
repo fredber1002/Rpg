@@ -38,7 +38,3 @@ class Creature(Object):
         print("╚" + "═" * 40 + "╝")
 
         
-
-        
-
-

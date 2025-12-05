@@ -5,3 +5,4 @@ class Enemy(Creature):
         super().__init__(id, title, max_hp, damage)
 
         self.cost_xp = cost_xp
+        self.has_loot = True 
